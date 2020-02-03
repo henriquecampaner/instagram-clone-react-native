@@ -1,5 +1,5 @@
 <h4 align="center">
-  Nubank Clone App with React Native.
+  Instagram Clone App with React Native.
 </h4>
   
   <p align="center">
@@ -18,8 +18,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 
 -  [ReactJS](https://reactjs.org/)
 -  [styled-components](https://www.styled-components.com/)
--  [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
--  [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
+-  [Animated](https://facebook.github.io/react-native/docs/animated)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
@@ -35,6 +34,9 @@ $ cd nubank
 
 # Install dependencies
 $ yarn install
+
+# Run Json server
+$ yarn json-server server.json -d 1000 -w
 
 # Run the app (iOS)
 $ react-native run-android
