@@ -16,7 +16,7 @@
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
--  [ReactJS](https://reactjs.org/)
+-  [React Native](https://facebook.github.io/react-native/)
 -  [styled-components](https://www.styled-components.com/)
 -  [Animated](https://facebook.github.io/react-native/docs/animated)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
